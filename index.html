@@ -1,4 +1,67 @@
-<p>
+<html>
+  <head>
+    <style>
+     
+:root {
+  --color-bg: #69F7BE;
+  --color-text-main: #000000;
+  --color-primary: #FFFF00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: "HK Grotesk";
+  --font-family-header: "HK Grotesk";
+}
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
+/* Import fonts */
+@font-face {
+  font-family: HK Grotesk;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+    format("opentype");
+}
+@font-face {
+  font-family: HK Grotesk;
+  font-weight: bold;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+    format("opentype");
+}
+
+
+
+body {
+  font-family: HK Grotesk;
+  background-color: var(--color-bg);
+}
+
+/* Page structure */
+.wrapper {
+  min-height: var(--wrapper-height);
+  display: grid;
+  place-items: center;
+  margin: 0 1rem;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+      </style>
+  </head>
+  <body>
+  <p>
   <h1 align="center"><b>Welcome, Students and Educators!</h1>
 </p>
 
@@ -11,3 +74,6 @@
 <p>I&#39;m Jen Looper, Head of Academic Advocacy at AWS and I&#39;m looking for your feedback to make AWS even more accessible and useful for the educational space. </p>
 <p>👩‍🎓 Students, please take this <a href="https://survey.fieldsense.whs.amazon.dev/survey/71a6c862-f8cb-4559-88ec-197e9abd2a6f">5-question survey</a> about your and your community&#39;s use of AWS services.</p>
 <p>🧑‍🏫 Faculty, please take this <a href="https://survey.fieldsense.whs.amazon.dev/survey/a03781d5-deac-4abc-94a8-b161792496bd">5-question survey</a> about how you use AWS in the classroom.</p>
+</body>
+  
+</html>
