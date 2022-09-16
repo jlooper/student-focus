@@ -9,9 +9,38 @@
 <a href="mailto:jelooper@amazon.com"><img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white" alt="Email" /></a>&nbsp;
 <br/>
 
-I'm Jen Looper, Head of Academic Advocacy at AWS and I'm looking for your feedback to make AWS even more accessible and useful for the educational space. 
+I'm Jen Looper, Head of Academic Advocacy at AWS and I'm here to make AWS even more accessible and useful for the educational space. 
 
-👩‍🎓 Students, please take this [5-question survey](https://survey.fieldsense.whs.amazon.dev/survey/71a6c862-f8cb-4559-88ec-197e9abd2a6f) about your and your community's use of AWS services.
+## Student Resources
 
-🧑‍🏫 Faculty, please take this [5-question survey](https://survey.fieldsense.whs.amazon.dev/survey/a03781d5-deac-4abc-94a8-b161792496bd) about how you use AWS in the classroom.
+AWS services to try for free:
+
+Are you a web developer? Try [AWS Amplify](https://aws.amazon.com/amplify/)
+
+Interested in Data Science and Machine Learning? Try [Sagemaker Studio Labs](https://studiolab.sagemaker.aws/)
+
+## Innovative online learning experiences:
+
+[Deep Racer for Students](https://student.deepracer.com/)
+
+[Machine Learning University Course](https://mlu-explain.github.io/)
+
+[Cloud Quest](https://cloudquest.skillbuilder.aws/)
+
+## Free courses:
+
+[AWS Educate](https://www.awseducate.com)
+
+[AWS SkillBuilder](https://explore.skillbuilder.aws)
+
+[Serverlessland](https://serverlessland.com/)
+
+## Upcoming free events near you:
+
+[Global Summits](https://aws.amazon.com/events/summits/)
+
+## Coming soon! 
+
+AWS Cloud Clubs - a new student usergroup initiative. Become your region’s next Cloud Club Captain and build your skills and career with your peers
+
 
