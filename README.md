@@ -11,6 +11,10 @@
 
 I'm Jen Looper, Head of Academic Advocacy at AWS and I'm here to make AWS even more accessible and useful for the educational space. 
 
+## Looking for an internship at AWS? 
+
+[Internships for students](https://www.amazon.jobs/en/teams/internships-for-students)
+
 ## Student Resources
 
 AWS services to try for free:
@@ -40,6 +44,8 @@ Interested in Data Science and Machine Learning? Try [Sagemaker Studio Labs](htt
 [Global Summits](https://aws.amazon.com/events/summits/)
 
 ## Coming soon! 
+
+<img src="b-w.png" alt="cloud club logo" width="250px"/>
 
 AWS Cloud Clubs - a new student usergroup initiative. Become your region’s next Cloud Club Captain and build your skills and career with your peers
 
